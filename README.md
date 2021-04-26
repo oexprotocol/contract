@@ -4,6 +4,6 @@ The goal of OEX Protocol is to create a decentralized exchange with very low fee
 
 Built with ♥️ on Binance SmartChain
 
-OFFICIAL TELEGRAM GROUP: t.me/oexprotocol
+TELEGRAM: https://t.me/oexprotocol
 
 Buy and hold OEX!  #oexprotocol
